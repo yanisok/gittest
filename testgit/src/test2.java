@@ -10,8 +10,7 @@
  *
  * @author  yanjianhua {must edit, use true name}
  * <p>
- *   Created on 2017年6月23日
- *   Modification history	
+ *   Created on 2017年
  *   {add your history}
  * </p>
  * <p>
